@@ -3,3 +3,5 @@ Algoritmo Que Calcula a menor Rota entre duas estações de Metrô da cidade do 
 Esse projeto foi desenvolvido para a disciplica de algoritos do segundo periodo do Curso de Ciência da Computação/Engenharia da Computação
 no ano de 2020.3
 Autor: iem@cin.ufpe.br
+
+Vídeo explicativo: https://youtu.be/FIxwdPU8KDk
